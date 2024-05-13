@@ -18,7 +18,7 @@ You can install `vim-hidecomments` using your favorite plugin manager or manuall
 1. Add the following to your `.vimrc`:
 
     ```vim
-    Plug 'warmdew/vim-hidecomments'
+    Plug 'wangfanstar/vim-hidecomments'
     ```
 
 2. Run `:PlugInstall` in Vim.
@@ -28,7 +28,7 @@ You can install `vim-hidecomments` using your favorite plugin manager or manuall
 1. Clone this repository into your `.vim/bundle` directory:
 
     ```sh
-    git clone https://github.com/warmdew/vim-hidecomments.git ~/.vim/bundle/vim-hidecomments
+    git clone https://github.com/wangfanstar/vim-hidecomments.git ~/.vim/bundle/vim-hidecomments
     ```
 
 2. Run `:Helptags` in Vim to regenerate help tags.
