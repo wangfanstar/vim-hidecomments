@@ -18,7 +18,7 @@ HideComments 是一个 Vim 插件，它允许您轻松地切换代码中注释�
 1. 在你的 `.vimrc` 中添加以下内容：
 
     ```vim
-    Plug 'warmdew/vim-hidecomments'
+    Plug 'wangfanstar/vim-hidecomments'
     ```
 
 2. 在 Vim 中运行 `:PlugInstall` 命令。
@@ -28,7 +28,7 @@ HideComments 是一个 Vim 插件，它允许您轻松地切换代码中注释�
 1. 克隆此仓库到你的 `.vim/bundle` 目录：
 
     ```sh
-    git clone https://github.com/warmdew/vim-hidecomments.git ~/.vim/bundle/vim-hidecomments
+    git clone https://github.com/wangfanstar/vim-hidecomments.git ~/.vim/bundle/vim-hidecomments
     ```
 
 2. 在 Vim 中运行 `:Helptags` 生成帮助标签。
